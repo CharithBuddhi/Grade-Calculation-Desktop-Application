@@ -1,0 +1,48 @@
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe.config
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).exe
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmLoginWindow.resources
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmCalculatedDataOfStudent.resources
+C:\Users\User\OneDrive\Desktop\New folder\New folder\Assignment (E2140110)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.FrmStudentDetais.resources
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe.config
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).pdb
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.FrmStudentDetais.resources
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmLoginWindow.resources
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmCalculatedDataOfStudent.resources
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).exe
+C:\Users\User\OneDrive\Desktop\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).pdb
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe.config
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).pdb
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.AssemblyReference.cache
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.FrmStudentDetais.resources
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmLoginWindow.resources
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmCalculatedDataOfStudent.resources
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.Properties.Resources.resources
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.GenerateResource.cache
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.CoreCompileInputs.cache
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).exe
+C:\Users\BUDDIKA\Desktop\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).pdb
+D:\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe.config
+D:\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).exe
+D:\personal account my\New folder (2)\Assignment (E2140110)\bin\Debug\Assignment (E2140110).pdb
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.AssemblyReference.cache
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.FrmStudentDetais.resources
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmLoginWindow.resources
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.frmCalculatedDataOfStudent.resources
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment__E2140110_.Properties.Resources.resources
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.GenerateResource.cache
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).csproj.CoreCompileInputs.cache
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).exe
+D:\personal account my\New folder (2)\Assignment (E2140110)\obj\Debug\Assignment (E2140110).pdb

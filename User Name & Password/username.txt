@@ -1,0 +1,2 @@
+UserName = Buddhika
+Password = 1234
